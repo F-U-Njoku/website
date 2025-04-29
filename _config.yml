@@ -1,6 +1,5 @@
-title: Fortune Uchechukwu Njoku
+#title: Fortune Uchechukwu Njoku
 logo: /assets/img/logo.jpg
-
-#description: text below image
-#show_downloads: true
+description: Data Scientist | AI/ML Engineer
+show_downloads: false
 theme: jekyll-theme-minimal
