@@ -1,4 +1,4 @@
-# Uchechukwu Njoku - Data Science & AI Portfolio
+# Fortune Uchechukwu Njoku
 
 Welcome to my portfolio! I'm Uchechukwu Njoku, a passionate **Data Scientist**, **Machine Learning Engineer**, and **AI Researcher** with a focus on **feature selection**, **generative AI**, **LLMs**, and **data science** research. I'm currently a **Ph.D. researcher** specializing in **Data Engineering** and have experience in data science, machine learning, and cloud technologies.
 
