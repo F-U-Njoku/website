@@ -51,20 +51,27 @@ Hello! I'm a Data Science & Engineering professional with a strong foundation in
 
 ## Education
 
-### Ph.D. in Data Engineering (Expected September 2025)  
+### Ph.D. in Data Engineering  
 **UPC (Spain) & ULB (Belgium)**  
-**Thesis:** *Towards Effective and Interpretable Many-Objective Featire Selection in Machine Learning*
+*Expected September 2025*  
+**Thesis:** *Towards Effective and Interpretable Many-Objective Feature Selection in Machine Learning*
+
+---
 
 ### M.Sc. in Big Data Management and Analytics  
-**ULB (Belgium), UPC (Spain) & TU/e (Netherlands)**
+**ULB (Belgium), UPC (Spain), & TU/e (Netherlands)**  
 **Thesis:** *A Study on the Impact of Feature Selection on Data Analysis*
 
+---
+
 ### M.Sc. in Computer Science  
-**African University of Science and Technology**
+**African University of Science and Technology**  
 **Thesis:** *Text Mining of Twitter Data: Topic Modelling (NLP)*
 
-### B.Sc. in Computer Science & Mathematics 
-**University of Nigera**
+---
+
+### B.Sc. in Computer Science & Mathematics  
+**University of Nigeria**
 
 ---
 
